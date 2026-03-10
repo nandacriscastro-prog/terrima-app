@@ -1,0 +1,9 @@
+{
+  "name": "terrima-app",
+  "version": "1.0.0",
+  "description": "Terrima — Gestão de Carteira CEMIG",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
