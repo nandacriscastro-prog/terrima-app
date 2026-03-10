@@ -1,4 +1,4 @@
-// api/proxy.js — Vercel Serverless Function
+// /api/proxy.js — Vercel Serverless Function
 // Faz o papel de intermediário entre o frontend e o Google Apps Script
 // Necessário para evitar CORS diretamente do browser
 //
